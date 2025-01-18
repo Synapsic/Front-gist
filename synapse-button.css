@@ -9,7 +9,7 @@
   border-radius: 5px;
   padding: 10px 20px;
   height: fit-content;
-  cursor: pointer;
+  cursor: pointer !important;
   width: fit-content;
 }
 
